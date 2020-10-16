@@ -1,2 +1,2 @@
 1. test
-shit!
+2. test : good word! not bad word!
